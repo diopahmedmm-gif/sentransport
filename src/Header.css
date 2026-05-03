@@ -6,18 +6,18 @@
 }
 
 .header-titre {
-  margin: 0;
   font-size: 2rem;
+  margin: 0 0 4px 0;
 }
 
-.header-soustitre {
-  margin: 5px 0 0 0;
+.header-sous-titre {
   font-size: 1rem;
-  opacity: 0.9;
+  margin: 0 0 8px 0;
+  opacity: 0.85;
 }
 
 .header-date {
-  margin: 5px 0 0 0;
   font-size: 0.85rem;
-  opacity: 0.75;
+  margin: 0;
+  opacity: 0.7;
 }
